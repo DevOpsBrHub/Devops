@@ -72,3 +72,4 @@ O monitoramento contínuo significa ter visibilidade total e em tempo real sobre
 As equipes de alto desempenho de DevOps garantem a definição de alertas acionáveis e significativos e a coleta de uma telemetria abundante para que seja possível extrair insights de grandes quantidades de dados. Esses insights ajudam a equipe a mitigar problemas em tempo real e a descobrir como melhorar o aplicativo em ciclos de desenvolvimento futuros.
 
 @devopsbrhub
+@devopsbrhub
