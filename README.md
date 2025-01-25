@@ -1,3 +1,7 @@
+<div style="text-align: center;">
+  <img src="https://www.softplan.com.br/wp-content/uploads/2022/10/image2-11.png.webp" alt="DevOps" style="max-width: 10%; height: auto;">
+</div>
+
 ## **O que é o DevOps?**
 
 Descubra como o DevOps unifica pessoas, processos e tecnologias para oferecer aos clientes produtos de qualidade superior com rapidez.
